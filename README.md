@@ -1,2 +1,2 @@
 # sFood
- proagma de restaurantes
+ programa de restaurantes
